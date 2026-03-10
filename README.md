@@ -50,7 +50,7 @@ Original code is Copyright (c) 2014 Couchbase, Inc. and licensed under Apache Li
 
 ## Other Tokenizer
 
-[sego](https://github.com/huichen/sego): Go Chinese Word Segmentation
-[gojieba](https://github.com/yanyiwu/gojieba): "Jieba" Chinese word segmentation in Golang version
-[simple](https://github.com/wangfenjin/simple): A SQLite3 fts5 tokenizer which supports Chinese and PinYin
-[language-tokenizer](https://github.com/savannstm/language-tokenizer): Rust Text tokenizer for more than 40 languages
+* [sego](https://github.com/huichen/sego): Go Chinese Word Segmentation
+* [gojieba](https://github.com/yanyiwu/gojieba): "Jieba" Chinese word segmentation in Golang version
+* [simple](https://github.com/wangfenjin/simple): A SQLite3 fts5 tokenizer which supports Chinese and PinYin
+* [language-tokenizer](https://github.com/savannstm/language-tokenizer): Rust Text tokenizer for more than 40 languages
