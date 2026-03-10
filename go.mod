@@ -1,3 +1,3 @@
 module github.com/bitxeno/go-cjk-tokenizer
 
-go 1.25.5
+go 1.18
